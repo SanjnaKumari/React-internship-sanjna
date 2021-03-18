@@ -9,10 +9,12 @@ export default function Home() {
 
   return (
     <>
-    <div className="wrapper">
+    <div className="wraper">
       
       <Ourteam/>
+      <section id="counter" className="index-3 gray_bg">
       <Counter/>
+      </section>
       <Quickconnect/>
       
     

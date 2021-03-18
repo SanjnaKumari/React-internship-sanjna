@@ -1,12 +1,12 @@
 import React from 'react'
 import Cdiv from '../components/Counter_div'
-import {Sdata, Heading_data, C_data} from '../Data/Home_Data'
+import { C_data} from '../Data/Home_Data'
 
 
 export default function Counter (){
     return(
         <>
-        <section id="counter" className="index-3 gray_bg">
+        
           <div className="container">
             <div className="col-lg-12">
               <div className="row row-safari">
@@ -36,7 +36,7 @@ export default function Counter (){
               </div>
             </div>
           </div>
-        </section>
+        
         </>
     )
 }

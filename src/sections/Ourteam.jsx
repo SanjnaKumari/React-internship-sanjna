@@ -2,7 +2,7 @@ import React from 'react';
 import Teammember_card from '../components/Teammember_card'
 import Sectionheader from '../components/Sectionheader'
 import Buttonteam from '../components/Buttonteam'
-import {Sdata, Heading_data, C_data} from '../Data/Home_Data'
+import {Sdata, Heading_data} from '../Data/Home_Data'
  
 
 const Ourteam = () => {

@@ -1,15 +1,15 @@
 import './App.css';
 import React from 'react';
-// import Navbar from "./components/Navbar";
-// import Topbar from "./components/Topbar";
-// import Ourteam from './Section_Component/Ourteam';
 import Home from './pages/Home'
+import AboutUs from './pages/AboutUs'
+
 
 
 function App() {
   return (
       <>
-          <Home />
+          {/* <Home /> */}
+          <AboutUs />
           
       </>
       );

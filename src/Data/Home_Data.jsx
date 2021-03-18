@@ -3,6 +3,9 @@ import img1 from '../img/team-member-pic.jpg'
 import img2 from '../img/team-member-pic2.jpg'
 import img3 from '../img/team-member-pic4.jpg'
 import img4 from '../img/team-member-pic3.jpg'
+import qimg1 from '../img/why-choose-us.jpg'
+import qimg2 from '../img/our-mission.jpg'
+import qimg3 from '../img/our-vision.jpg'
 
 const Sdata = [  
     {
@@ -61,4 +64,45 @@ const C_data = [
         c_title:"Office Locations",
     },
 ]
-export {Sdata, Heading_data, C_data}
+
+const Aboutqualities_data = [
+    {
+        iconname: "flat flaticon-reward",
+        heading: "We are Professional",
+    },
+    {
+        iconname: "flat flaticon-certificate",
+        heading: "Licensed and Certified",
+    },
+    {
+        iconname: "flat flaticon-enterprise",
+        heading: "Number 1 Company",
+    },
+    {
+        iconname: "flat flaticon-working-team",
+        heading: "Leading Provider",
+    }
+]
+
+const Aboutdetail_data = [
+    {
+       src: qimg1,
+       alt: "Why Choose Us",
+       title1: "Why ",
+       title2: "Choose Us?" 
+    },
+    {
+       src: qimg2,
+       alt: "Our Mission",
+       title1: "Our ",
+       title2: "Mission" 
+    },
+
+    {
+        src: qimg3,
+        alt: "Our Vision",
+        title1: "Our ",
+        title2: "Vision" 
+     },
+]
+export {Sdata, Heading_data, C_data, Aboutqualities_data, Aboutdetail_data}
