@@ -133,3 +133,4 @@ const Headerdata_detail=[
 ]
 
 export {Sdata, Heading_data, C_data, Aboutqualities_data, Aboutdetail_data, Headerdata, Headerdata_left, Headerdata_detail}
+ 
