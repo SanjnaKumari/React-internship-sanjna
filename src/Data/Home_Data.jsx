@@ -116,7 +116,8 @@ const Headerdata =[
     {heading: "Blog 2 Columns", l1:"Blog 2 Columns"},
     {heading: "Blog 3 Columns", l1:"Blog 3 Columns"},
     {heading:"Blog Right Sidebar", l1:"Blog 3 Columns"},
-    {heading:"Blog Left Sidebar", l1:"Blog 3 Columns"}
+    {heading:"Blog Left Sidebar", l1:"Blog 3 Columns"},
+    {heading:"FAQ's", l1:"FAQ's"}
     // {heading: "Portfolio Details",liClass:"breadcrumb-item active"}
 ]
 

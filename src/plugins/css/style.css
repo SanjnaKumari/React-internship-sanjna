@@ -1146,13 +1146,15 @@
      padding-left: 15px;
 }
  footer .navigations ul li::before{
-     content:url('../../img/footer_nav_arrow.png');
+     /* content:url('../../img/footer_nav_arrow.png'); */
+     content:url('../../img/fast-forward.png');
      left:-15px;
      position: relative;
      transition: all 0.1s ease;
 }
  footer .navigations ul li:hover::before{
-     content:url('../../img/footer_nav_arrow.png');
+     /* content:url('../../img/footer_nav_arrow.png'); */
+     content:url('../../img/fast-forward.png');
      left:-10px;
      position: relative;
 }
@@ -4180,13 +4182,15 @@
      font-size: 14px;
 }
  section#faq #accordion ul li::before{
-     content:url('../../img/footer_nav_arrow.png');
+     /* content:url('../../img/footer_nav_arrow.png'); */
+     content:url('../../img/fast-forward.png');
      left:-15px;
      position: relative;
      transition: all 0.1s ease;
 }
  section#faq #accordion ul li:hover::before{
-     content:url('../../img/footer_nav_arrow.png');
+     /* content:url('../../img/footer_nav_arrow.png'); */
+     content:url('../../img/fast-forward.png');
      left:-10px;
      position: relative;
 }

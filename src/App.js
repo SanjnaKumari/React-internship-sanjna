@@ -3,6 +3,7 @@ import React from 'react';
 import Home from './pages/Home'
 import AboutUs from './pages/AboutUs'
 import BlogRightSidebar from './pages/BlogRightSidebar'
+import Faq from './pages/Faq'
 
 
 
@@ -11,7 +12,8 @@ function App() {
       <>
           {/* <Home /> */}
           {/* <AboutUs /> */}
-          <BlogRightSidebar/>
+          {/* <BlogRightSidebar/> */}
+          <Faq/>
       </>
       );
 }
